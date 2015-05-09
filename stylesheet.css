@@ -8,7 +8,7 @@
 body {
   background: #fff;
   color: white;
-  background: url(/images/background.png) no-repeat;
+  background: url(/ryeboy-site/images/background.png) no-repeat;
   background-size: 100%;
 }
 
@@ -53,11 +53,11 @@ a {
   border-bottom: 3px solid #F3A536;
 }
 #navigation li.entrance {
-  background: url(/images/entrance.png) 12px 32px no-repeat;
+  background: url(/ryeboy-site/images/entrance.png) 12px 32px no-repeat;
   padding-bottom: 10px;
 }
 #navigation li.entrance:hover {
-  background-image: url(/images/entrance-hover.png);
+  background-image: url(/ryeboy-site/images/entrance-hover.png);
   border-bottom: none;
 }
 
@@ -79,13 +79,13 @@ a {
   font-weight: normal;
 }
 .index #apply-to-join {
-  background: url(/images/apply.png) no-repeat;
+  background: url(/ryeboy-site/images/apply.png) no-repeat;
   height: 60px;
   display: block;
   margin-top: 30px;
 }
 .index #apply-to-join:hover {
-  background: url(/images/apply-hover.png) no-repeat;
+  background: url(/ryeboy-site/images/apply-hover.png) no-repeat;
 }
 .about-us h2{
   font-size: 32px;
