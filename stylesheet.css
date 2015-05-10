@@ -24,6 +24,8 @@ a {
 #main {
   width: 960px;
   min-height: 800px;
+  margin: 0 auto;
+  position: relative;
 }
 
 #logo {
