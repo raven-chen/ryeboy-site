@@ -175,10 +175,6 @@ footer, .push {
 .case .content p.end {
   margin-bottom: 20px;
 }
-.faq {
-  width: 640px;
-  margin: 0 auto;
-}
 .faq .item, .faq .item h2 {
   margin-bottom: 30px;
 }
