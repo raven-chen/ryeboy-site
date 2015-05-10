@@ -56,7 +56,7 @@ a {
 }
 #navigation li.entrance {
   background: url(/ryeboy-site/images/entrance.png) 12px 32px no-repeat;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
 }
 #navigation li.entrance:hover {
   background-image: url(/ryeboy-site/images/entrance-hover.png);
