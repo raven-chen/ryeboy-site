@@ -64,7 +64,7 @@ footer, .push {
   border-bottom: 3px solid #F3A536;
 }
 #navigation li.entrance {
-  background: url(/ryeboy-site/images/entrance.png) -5px 20px no-repeat;
+  background: url(/ryeboy-site/images/entrance.png) -5px 26px no-repeat;
   padding-bottom: 20px;
 }
 #navigation li.entrance:hover {
