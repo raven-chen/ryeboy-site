@@ -1,0 +1,40 @@
+@media screen and (max-device-width: 600px) {
+  body {
+    background-image: linear-gradient(to bottom,#5BBBF7, #6CBFF3);
+  }
+
+  .app-show {
+    display: none;
+  }
+
+  .description {
+    width: 100%;
+    margin-top: 315px;
+    .download {
+      margin-top: 0;
+      position: absolute;
+      top: 130px;
+
+      .android {
+        float: none;
+      }
+
+      .ios {
+        float: none;
+        margin-left: 0;
+      }
+    }
+
+    .ios-description {
+      margin-top: 30px;
+      position: absolute;
+      top: 270px;
+    }
+  }
+
+  .two-d-code {
+    position: absolute;
+    right: 15px;
+    top: 115px;
+  }
+}
