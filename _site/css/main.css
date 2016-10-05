@@ -218,12 +218,15 @@ body {
   body {
     background-image: linear-gradient(to bottom, #5BBBF7, #6CBFF3); }
 
-  .app-show {
+  .app-show iframe {
+    width: 290px !important;
+    margin-top: 260px; }
+  .app-show img {
     display: none; }
 
   .description {
     width: 100%;
-    margin-top: 285px; }
+    margin-top: 45px; }
     .description .download {
       margin-top: 0;
       position: absolute;

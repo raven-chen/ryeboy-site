@@ -4,12 +4,19 @@
   }
 
   .app-show {
-    display: none;
+    iframe {
+      width: 290px !important;
+      margin-top: 260px;
+    }
+
+    img {
+      display: none;
+    }
   }
 
   .description {
     width: 100%;
-    margin-top: 285px;
+    margin-top: 45px;
     .download {
       margin-top: 0;
       position: absolute;
