@@ -219,7 +219,7 @@ body {
     background-image: linear-gradient(to bottom, #5BBBF7, #6CBFF3); }
 
   .app-show iframe {
-    width: 290px !important;
+    width: 300px !important;
     margin-top: 260px; }
   .app-show img {
     display: none; }
