@@ -167,7 +167,11 @@ body {
     color: #FFF; }
 
 .app-show {
-  float: left; }
+  float: left;
+  width: 400px; }
+  .app-show img {
+    margin-top: 40px;
+    margin-left: 50px; }
 
 .description {
   float: right;
@@ -191,7 +195,8 @@ body {
       float: left;
       width: 200px; }
   .description .ios-description {
-    margin-top: 30px; }
+    margin-top: 30px;
+    padding-left: 10px; }
 
 .site-footer {
   margin-top: 130px;
@@ -200,13 +205,12 @@ body {
     padding-right: 40px; }
 
 .two-d-code {
-  position: absolute;
-  right: 30px;
-  bottom: 160px; }
+  padding: 0 40px;
+  margin-top: 32px; }
   .two-d-code label {
     display: block;
     text-align: center;
-    margin-bottom: 10px; }
+    margin-top: 10px; }
 
 @media screen and (max-device-width: 600px) {
   body {
@@ -223,19 +227,12 @@ body {
       position: absolute;
       top: 130px; }
       .description .download .android {
-        float: none; }
+        width: 190px; }
       .description .download .ios {
-        float: none;
-        margin-left: 0; }
+        margin-left: 0;
+        width: 190px; }
     .description .ios-description {
-      margin-top: 30px;
-      position: absolute;
-      top: 270px; }
-
-  .two-d-code {
-    position: absolute;
-    right: 15px;
-    top: 115px; } }
+      margin-top: 30px; } }
 /**
  * Syntax highlighting styles
  */

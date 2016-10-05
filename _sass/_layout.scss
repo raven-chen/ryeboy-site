@@ -23,6 +23,12 @@ body {
 
 .app-show {
   float: left;
+  width: 400px;
+
+  img {
+    margin-top: 40px;
+    margin-left: 50px;
+  }
 }
 
 .description {
@@ -60,6 +66,7 @@ body {
 
   .ios-description {
     margin-top: 30px;
+    padding-left: 10px;
   }
 }
 
@@ -73,13 +80,12 @@ body {
 }
 
 .two-d-code {
-  position: absolute;
-  right: 30px;
-  bottom: 160px;
+  padding: 0 40px;
+  margin-top: 32px;
 
   label {
     display: block;
     text-align: center;
-    margin-bottom: 10px;
+    margin-top: 10px;
   }
 }
