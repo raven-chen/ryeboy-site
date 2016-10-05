@@ -172,6 +172,8 @@ body {
   .app-show img {
     margin-top: 40px;
     margin-left: 50px; }
+  .app-show embed {
+    margin-top: 40px; }
 
 .description {
   float: right;
