@@ -220,6 +220,7 @@ body {
 
   .app-show iframe {
     width: 300px !important;
+    height: 280px !important;
     margin-top: 260px; }
   .app-show img {
     display: none; }
