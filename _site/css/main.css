@@ -209,6 +209,10 @@ body {
 .two-d-code {
   padding: 0 40px;
   margin-top: 32px; }
+  .two-d-code img.ios-code {
+    padding: 6px;
+    background: white;
+    border-radius: 10px; }
   .two-d-code label {
     display: block;
     text-align: center;

@@ -87,6 +87,12 @@ body {
   padding: 0 40px;
   margin-top: 32px;
 
+  img.ios-code {
+    padding: 6px;
+    background: white;
+    border-radius: 10px;
+  }
+
   label {
     display: block;
     text-align: center;
