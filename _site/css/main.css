@@ -218,6 +218,11 @@ body {
     text-align: center;
     margin-top: 10px; }
 
+.more-info {
+  font-size: 16px;
+  float: right;
+  margin-bottom: 10px; }
+
 @media screen and (max-device-width: 600px) {
   body {
     background-image: linear-gradient(to bottom, #5BBBF7, #6CBFF3); }
