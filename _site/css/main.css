@@ -170,8 +170,7 @@ body {
   float: left;
   width: 400px; }
   .app-show img {
-    margin-top: 40px;
-    margin-left: 50px; }
+    margin-top: 10px; }
   .app-show embed {
     margin-top: 40px; }
 
@@ -236,7 +235,7 @@ body {
 
   .description {
     width: 100%;
-    margin-top: 45px; }
+    margin-top: 250px; }
     .description .download {
       margin-top: 0;
       position: absolute;
