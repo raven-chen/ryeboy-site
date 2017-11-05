@@ -206,6 +206,8 @@ body {
 .two-d-code {
   padding: 0 40px;
   margin-top: 32px; }
+  .two-d-code.text {
+    padding: 0; }
   .two-d-code img.ios-code {
     padding: 6px;
     background: white;
@@ -233,7 +235,7 @@ body {
 
   .description {
     width: 100%;
-    margin-top: 250px; }
+    margin-top: 280px; }
     .description .download {
       margin-top: 0;
       position: absolute;
@@ -245,7 +247,10 @@ body {
         width: 150px; }
     .description .ios-description {
       margin-top: 30px;
-      font-size: 10px; } }
+      font-size: 10px; }
+
+  .two-d-code {
+    padding: 0; } }
 /**
  * Syntax highlighting styles
  */
