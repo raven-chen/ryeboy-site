@@ -10,7 +10,7 @@ title: '麦田男孩APP官方网站'
 description: '麦田男孩是公益戒色戒撸健康习惯平台,来麦田男孩戒色吧: 专业戒色APP,超过100多位义工,科学运动和完整计划,助你养成良好生活习惯,快来戒色吧'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.ryeboy.org" # the base hostname & protocol for your site
-copyright: "© Copyright 2013-2017 Fuzhou Ryesun Culture Communication Co., Ltd."
+copyright: "<a href='http://www.beian.miit.gov.cn' target='_blank'>闽ICP备15011069号</a>"
 
 # Build settings
 markdown: kramdown
