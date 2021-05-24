@@ -173,8 +173,7 @@ body {
     margin-top: 10px; }
 
 .description {
-  float: right;
-  width: 500px; }
+  width: 100%; }
   .description p.question {
     font-size: 16px;
     font-weight: bold;
