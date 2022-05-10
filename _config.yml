@@ -8,6 +8,7 @@
 # Site settings
 title: '麦田男孩APP官方网站'
 description: '麦田男孩是公益健康习惯平台,专业APP,超过100多位义工,科学运动和完整计划,助你养成良好生活习惯'
+address: '© 2015-2022 福州市麦田阳光文化传播有限公司'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.ryeboy.org" # the base hostname & protocol for your site
 copyright: "<a href='http://www.beian.miit.gov.cn' target='_blank'>闽ICP备15011069号</a>"
